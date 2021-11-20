@@ -15,6 +15,10 @@
 Este projeto é uma aplicação ReactJS desafio para listagem de dados em endpoint, formatacao e contextos;
 Inspirado em um projeto das trilhas da [Rocketseat](https://www.rocketseat.com.br/) e feito por <a  href="https://github.com/hog099"  target="_blank">Hudson Oliveira</a>.
 
+### <p  align="center"><a href="https://react-financial-challenge-solved-p18ww55ub-andr-marc.vercel.app/" target="_blank" >Clique aqui para testar o projeto no Vercel.</a> </p>
+
+<br>
+
 ## 🧪 Tecnologias
 
 O projeto foi desenvolvido usando as seguintes tecnologias:
